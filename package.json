@@ -1,5 +1,5 @@
 {
-  "name": "react-native-vimeo",
+  "name": "bdvega-react-native-vimeo",
   "version": "0.3.0",
   "description": "A <Vimeo/> component for React Native.",
   "main": "Vimeo.js",
@@ -11,19 +11,19 @@
     "url": "git+https://github.com/Myagi/react-native-vimeo.git"
   },
   "keywords": [
-    "alex-mcleod",
-    "Myagi",
+    "brian-vega",
+    "dent",
     "react",
     "react-native"
   ],
-  "author": "Alex McLeod",
+  "author": "Brian Vega",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Myagi/react-native-vimeo/issues"
+    "url": "https://github.com/DentVega/react-native-vimeo"
   },
-  "homepage": "https://github.com/Myagi/react-native-vimeo#readme",
+  "homepage": "https://github.com/DentVega/react-native-vimeo",
   "dependencies": {
-    "prop-types": "^15.5.10",
-    "react-native-webview": "^7.4.1"
-  }
+    "prop-types": "^15.5.10"
+  },
+  "devDependencies": {}
 }
